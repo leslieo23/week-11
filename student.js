@@ -1,5 +1,5 @@
 var prompt=require('prompt')
-var bus=require('./bus.js')
+var bus=require('./bus2.js')
 var fs=require('fs')
 
 var busInfo= new bus();
