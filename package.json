@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "homework for week 11",
   "main": "index.js",
+  "denpendencies": {
+    "prompt": "^1.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/leslieo23/week-11/issues"
   },
-  "homepage": "https://github.com/leslieo23/week-11#readme"
+  "homepage": "https://github.com/leslieo23/week-11#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
 }
