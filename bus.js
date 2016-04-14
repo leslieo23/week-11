@@ -4,6 +4,8 @@ var bus=function(studentsOnTheBus,driverName,color,gas,studentEntersBus,busChatt
 	this.color=""
 	this.gas=0
 	this.studentEnterBus=function(){}
-	this.busChatter=functions(){Sutdent.catchPhrase}
+	this.busChatter=function(){
+		Sutdent.catchPhrase
+	}
 }
-module.exports
+module.exports=bus;
